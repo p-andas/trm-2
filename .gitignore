@@ -24,4 +24,4 @@ build/
 *.npy
 *.json
 wandb/
-checkpoints/
+#checkpoints/
